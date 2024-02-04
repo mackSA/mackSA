@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Rust  <br>🎯 Goals: Bloging and documenting my growth via git<br>🎲 Fun fact: l think I'm funny</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Rust🦀  <br>🎯 Goals: Bloging and documenting my growth via git<br>🎲 Fun fact: l think I'm funny</p>
 
 ###
 
